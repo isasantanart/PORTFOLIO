@@ -1,0 +1,50 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #695757;
+  color: #000000;
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.secao {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(233, 217, 217, 0.1);
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+
+.imagem-hobbies {
+  width: 100%;
+  max-width: 700px;
+  margin: 30px auto;
+  border-radius: 8px;
+}
+
+video {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #656d72;
+  border-radius: 8px;
+}
+   li a {
+  color: #ffffff;
+  line-height: 1.6;
+  box-sizing: border-box;
+  box-shadow: #ffffff;
+
+}   
